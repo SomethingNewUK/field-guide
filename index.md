@@ -14,6 +14,7 @@ This site is a collaborative effort, built with software from the [OpenPolitics 
 
 For now, while you can edit any page, new pages must be created using GitHub's built-in editor or by using a local git clone. Talk to a project administrator or a nearby coder for help there.
 
-Let's get started;
+Let's get started:
 
 * [Communication](communication.html) - Learn how communication works here.
+* [Elections](elections.html)
