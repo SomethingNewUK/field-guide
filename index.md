@@ -16,4 +16,5 @@ For now, while you can edit any page, new pages must be created using GitHub's b
 
 Let's get started:
 
+* [Communication](communication.html) - Learn how communication works here.
 * [Elections](elections.html)
