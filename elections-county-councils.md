@@ -46,7 +46,7 @@ Here a breakdown of what the forms involve
 * * Your commonly used name (optional)
 * * Party description (optional)
 * Consent to nomination
-* * Your eligibility to stand
+* * Your [eligibility to stand](http://www.electoralcommission.org.uk/__data/assets/pdf_file/0007/141784/Part-1-Can-you-stand-for-election-LGEW.pdf)
 * * Your date of birth
 * * Your signature, which must be witnessed
 * Certificate of authorisation
