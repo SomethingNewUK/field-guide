@@ -2,7 +2,7 @@
 title: County Council Elections
 ---
 
-# Preparing
+## Preparing
 
 If you are interested in becoming a county councillor, you should do your best to be prepared, well before the election.
 
@@ -18,7 +18,7 @@ If you are interested in becoming a county councillor, you should do your best t
 * If you can, attend future full council meetings.
 * There will be a local plan for your area. Find it, read it, absorb it.
 
-# Getting on the ballot
+## Getting on the ballot
 
 * [The Electoral Commission’s complete nomination form pack, including election agent
 notification form](http://www.electoralcommission.org.uk/__data/assets/word_doc/0006/141792/Nomination-pack-incl-election-agent-notification-form-LGEW.doc)
@@ -37,12 +37,12 @@ you miss the deadline.
 
 There are five forms involved in becoming a candidate:
 
-The nomination form – completed by the candidate and signed by 10 electors
-Your consent to nomination – completed by the candidate
-A certificate of authorisation – completed by the party’s Nominating Officer
-An emblem request form – completed by the candidate
-An agent appointment form (this is optional)
-Becoming
+* The nomination form – completed by the candidate and signed by 10 electors
+* Your consent to nomination – completed by the candidate
+* A certificate of authorisation – completed by the party’s Nominating Officer
+* An emblem request form – completed by the candidate
+* An agent appointment form (this is optional)
+
 Here a breakdown of what the forms involve
 
 * Nomination form
@@ -56,8 +56,7 @@ Here a breakdown of what the forms involve
 * * Your date of birth
 * * Your signature, which must be witnessed
 * Certificate of authorisation
-* * Allows the candidate to use the party name, one of the party’s descriptions, or
-either
+* * Allows the candidate to use the party name, one of the party’s descriptions, or either
 * Emblem request form
 * * Name of the party
 * * Description of the emblem to be used
