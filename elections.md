@@ -11,7 +11,7 @@ We have guides for each type of election in the UK, to help you if you want to s
 * Scottish Parliament
 * Welsh Assembly
 * Northern Ireland Assembly
-* [County Councils](eletions-ccounty-councils.html)
+* [County Councils](eletions-county-councils.html)
 * Local (District/unitary/combined) Authorities
 * Parish Councils
 * Regional Mayors
