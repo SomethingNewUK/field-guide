@@ -20,20 +20,14 @@ If you are interested in becoming a county councillor, you should do your best t
 
 ## Getting on the ballot
 
-* [The Electoral Commission’s complete nomination form pack, including election agent
-notification form](http://www.electoralcommission.org.uk/__data/assets/word_doc/0006/141792/Nomination-pack-incl-election-agent-notification-form-LGEW.doc)
-* [The source document from which this information is taken](
+* [The Electoral Commission’s complete nomination form pack, including election agent notification form](http://www.electoralcommission.org.uk/__data/assets/word_doc/0006/141792/Nomination-pack-incl-election-agent-notification-form-LGEW.doc)
+* [The source document from which this information is taken](http://www.electoralcommission.org.uk/__data/assets/pdf_file/0010/141787/Part-2b-standing-as-a-party-candidate-LGEW.pdf)
 
-Welcome on board, and thanks for your interest in becoming a local government candidate
-for Something New. This is the bureaucratic side, where we’ll be guiding you through
-the process of becoming a candidate in the eyes of the law.
+Welcome on board, and thanks for your interest in becoming a local government candidate for Something New. This is the bureaucratic side, where we’ll be guiding you through the process of becoming a candidate in the eyes of the law.
 
-To get on the ballot, you must submit your nomination papers by 4pm on the 4th April to the
- place fixed by the Returning Officer.
+To get on the ballot, you must submit your nomination papers by 4pm on the 4th April to the place fixed by the Returning Officer.
 
-In submitting the nomination papers, it is recommended that yourself, your election agent, or
-someone you trust delivers them. They must be submitted in person. There is no leeway if
-you miss the deadline.
+In submitting the nomination papers, it is recommended that yourself, your election agent, or someone you trust delivers them. They must be submitted in person. There is no leeway if you miss the deadline.
 
 There are five forms involved in becoming a candidate:
 
